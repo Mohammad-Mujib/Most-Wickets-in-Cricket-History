@@ -21,7 +21,6 @@ During the project I will analyze this dataset to get the information about each
 - Matplotlib
 - Seaborn
 - Plotly
-
 -Power BI
 
 ## Procedure
