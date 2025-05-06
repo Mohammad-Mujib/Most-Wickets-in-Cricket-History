@@ -61,5 +61,6 @@ After analyse the dataset I have created a Dashboard in Microsoft Power BI that 
 
 ## Contact info 💌
 Doubts? Advice? Drop me a line! 🤗 mujibspain17@gmail.com
+Thanks!
 
 
